@@ -328,7 +328,7 @@ Another idea is to add a *second* CSS variable for three more colors to create a
 ```
 
 ![Demonstrating a 6 color mesh gradient](6-color-gradient.jpg)
-> Photo by [Jose G. Ortega Castro](https://unsplash.com/@j0rt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/golden-sun-shines-through-the-smoky-atmosphere-WQ-_nF_gS8s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+> Photo by [Jose G. Ortega Castro](https://unsplash.com/@j0rt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/red-and-yellow-light-streaks-j-stvO_SzE8)
 
 ---
 
