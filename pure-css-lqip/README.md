@@ -360,7 +360,7 @@ Being a Swift developer as well I figured it's worth showing how easy it is to c
 
 
 ![SwiftUI preview of the LQIP](swiftui-example.jpg)
-> Photo by [Vicky Hladynets](https://unsplash.com/@vhladynets?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/MQWaZcqXmDA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+> Photo by [Vicky Hladynets](https://unsplash.com/@vhladynets?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/man-in-black-crew-neck-shirt-wearing-black-sunglasses-sDDtChahKQ4)
 
 The Swift code can be found in the [GitHub Gist](https://gist.github.com/frzi/f13203d42a47c3d167b27135d98d6098).
 
