@@ -23,7 +23,7 @@ A while back [Lean Rada](https://leanrada.com/) stunned the web development comm
 
 This inspired me to explore other avenues of implementing LQIPs, purely in CSS. Not to create something *better* (like hell I could), but to harness CSS' power differently and see what else is possible.
 
-Before we get into the technical nitty gritty, we first have to talk about LQIPs as a concept and the benefits of implementing LQIPs via CSS. If you're already well up to speed, or just don't care, you can ⌘-F (or Ctrl-F) the 🧪 emoji to jump to [the code and the science](#the-code-and-the-science) behind it all!
+Before we get into the technical nitty gritty, we first have to talk about LQIPs as a concept and the benefits of implementing LQIPs via CSS. If you're already well up to speed, or just don't care, you can ⌘-F (or Ctrl-F) the 🧪 emoji to jump to [the code and the science](#-the-code-and-the-science) behind it all!
 
 [Don't forget to check the implementation in action over here](https://frzi.github.io/lqip-css/).
 
